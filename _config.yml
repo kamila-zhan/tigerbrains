@@ -9,18 +9,6 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-gitbook:
-  sharing:
-    all: []
-    facebook: false
-    twitter: false
-    google: false
-    weibo: false
-    instapaper: false
-    vk: false
-    github: false
-    telegram: false
-
 url:              'https://kamila-zhan.github.io'
 baseurl:          '/tigerbrains'
 rss:              RSS
