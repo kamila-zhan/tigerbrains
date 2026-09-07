@@ -1,0 +1,9 @@
+---
+title: Intro
+author: Kamila Zhanuzak
+date: 2026-09-07
+category: Jekyll
+layout: post
+---
+
+Intro
