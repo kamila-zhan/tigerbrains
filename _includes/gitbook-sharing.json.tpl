@@ -3,7 +3,7 @@
 
                 "google": false,
 
-                "github": true,
+                "github": false,
                 "github_link": "https://github.com/kamila-zhan",
               
 
