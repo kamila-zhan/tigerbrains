@@ -9,6 +9,10 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
+gitbook:
+  sharing:
+    all: false
+
 url:              'https://kamila-zhan.github.io'
 baseurl:          '/tigerbrains'
 rss:              RSS
