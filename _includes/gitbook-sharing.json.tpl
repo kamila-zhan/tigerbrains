@@ -1,7 +1,7 @@
             "sharing": {
                 "facebook": false,
 
-                "google": true,
+                "google": false,
                 "google_link": "mailto:kzhanuzak8@gmail.com",
 
                 "github": false,
