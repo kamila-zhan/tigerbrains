@@ -1,14 +1,15 @@
             "sharing": {
                 "facebook": false,
 
-                "google": false,
+                "google": true,
+                "google_link": "mailto:kzhanuzak8@gmail.com",
 
                 "github": false,
                 "github_link": "https://github.com/kamila-zhan",
               
 
-                "telegram": false,
-                "telegram_link": "https://t.me",
+                "telegram": true,
+                "telegram_link": "https://t.me/KamilaZhan",
 
                 "instapaper": false,
 
