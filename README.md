@@ -12,7 +12,7 @@ Content about brain and psychology
 - Cognitive Behavioral Therapy (CBT)
 - Neuroscience
 
-### Contact
+### Contact me
 
 Telegram: [@KamilaZhan](https://t.me/KamilaZhan)
 
