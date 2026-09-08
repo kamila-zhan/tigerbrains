@@ -6,22 +6,14 @@ permalink: /
 
 Content about brain and psychology
 
-## CBT
+### Topics
 
-Cognitive Behavioral Therapy [CBT][1]
+- Mindfulness
+- Cognitive Behavioral Therapy (CBT)
+- Neuroscience
 
-## Neuroscience
-
-Science about `brain`
-
-### Neuropsychology
-
-- brain
-- psychology
-
-## Contact
+### Contact
 
 Telegram: [@KamilaZhan](https://t.me/KamilaZhan)
-Email: kzhanuzak8@gmail.com
 
-[1]: https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral
+Email: kzhanuzak8@gmail.com
