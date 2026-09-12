@@ -47,7 +47,8 @@ The question to ask is: do they misrepresent reality and cause negative feelings
 By changing automatic negative thoughts to more rational ones, negative feelings should change too.
   
 It is better to start with major cognitive distortions, which represent most of the negative thoughts.  
-*[Online book with information about cognitive distortions](https://cogbtherapy.com/cbt-for-cognitive-distortions)*
+*[Online book with information about cognitive distortions](https://cogbtherapy.com/cbt-for-cognitive-distortions)*  
+*[50 common cognitive distortions](https://www.psychologytoday.com/us/blog/in-practice/201301/50-common-cognitive-distortions)*
 
 Tackling negative thoughts once will not help permanently.  
 Usually negative thinking is a habit that needs to be tackled deliberately again and again.  
