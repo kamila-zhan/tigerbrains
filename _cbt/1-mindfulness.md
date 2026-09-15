@@ -88,11 +88,12 @@ If being mindful is being aware of emotions, for example, then asking, what do I
 
 ### Where to start
 
-Start by asking questions.
+Start with body scan technique.  
+Throughout the day pause as much as you can to practice noticing your body.
+
+If you are comfortable enough to start self-exploration, start by asking questions from the last paragraph.
 
 Mindfulness is not easy to learn and practice, even if it seems so.
-
-Direct and simple action like asking a question, `what do I think/feel?`, will help to initiate the process. 
 
 As you progress, mindfulness will hopefully become part of your everyday life and bring all the great benefits it has in it.
 

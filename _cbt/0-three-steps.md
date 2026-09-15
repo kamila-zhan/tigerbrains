@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Three steps to advance
+title: Three Steps to Advance
 ---
 
 Facing difficult emotions, struggling with procrastination or dealing with any other problem related to mental health usually comes with not understanding where to start in solving it.

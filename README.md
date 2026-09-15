@@ -12,15 +12,14 @@ Content about brain and psychology
 - Cognitive Behavioral Therapy (CBT)
 - Neuroscience
 
-### Contact Me
+### Contacts
 
 Telegram: [@KamilaZhan](https://t.me/KamilaZhan)
 
 Email: kzhanuzak8@gmail.com
 
-### Psychological Counselling
+I am not a practicing psychologist.  
 
-I can give consultations on personal growth and self-centered help, especially everything discussed here in Tiger Brains.  
-However I do not consult on topics such as relationships with other people, psychological disorders, traumas and addictions.   
+However I can conduct an educational consultation and explain presented theory on brain and psychology to use in self-therapy or have better preparation for work with psychotherapist.
 
 [Psychology Diploma](https://kamila-zhan.github.io/tigerbrains/assets/psy_diploma.pdf)
