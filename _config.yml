@@ -51,11 +51,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   others:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 ordered_collections:
-  - posts
   - cbt
   - others
 
