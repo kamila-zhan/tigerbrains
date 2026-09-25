@@ -3,20 +3,22 @@ layout: post
 title: Positive Reframing
 ---
 
-David Burns presents the positive reframing concept in the book *"Feeling Great"* along with the TEAM-CBT psychotherapy framework developed by him.  
+The positive reframing concept is discussed within TEAM-CBT psychotherapy framework developed by David Burns in his book `Feeling Great`.
 
-The reason for including positive reframing into cognitive behavioral therapy(CBT), according to him, is resistance to changes people might have, which makes CBT methods inefficient.  
+It is applied to our negative feelings and thoughts to see what good they have to offer us.
+
+The reason to apply it is to ease the resistance to changes people might have while doing cognitive behavioral therapy.
 
 ### Resistance
 
 We are used to viewing emotions and thoughts as only positive or only negative.  
 
-For example, it is hard to see why feeling anxious and sad along with thinking you are a bad specialist can be positive.   
-Moreover, what could be the benefits of seeing this as positive?
+For example, it is hard to see why feeling anxious and thinking `I am a failure` can be positive.   
+And what could be the benefits of seeing them as positive?
 
-At the same time, trying to switch into positive emotions and thoughts sometimes doesn't feel right or helpful.  
-While swimming in bad feelings and dark thoughts is sometimes tempting and attractive.  
-
+Swimming in bad feelings and dark thoughts is sometimes tempting and attractive.  
+When this happens, trying to switch into positive emotions and thoughts doesn't feel right or helpful.  
+ 
 It may not sound surprising that people in some way love their negative feelings and are attached to them.  
 This may explain why when someone or something forces us to change into a positive, the first reaction can be repulsion.  
 
