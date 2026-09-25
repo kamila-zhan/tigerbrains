@@ -49,22 +49,19 @@ As with radical acceptance, it does not mean we will keep everything as it is an
 
 To leave or not the negative in our minds are not the only options available.    
 
-According to TEAM-CBT, we can define the percentage of how much we believe our thoughts.  
-For example, give `I think my work was done awfully` **90%** believe value.  
+According to TEAM-CBT, we can define the percentage of how much we believe our thoughts and lower it.  
 
+For example, give `I think my work was done awfully` 90% believe value and aim to decrease it to 30%.  
 Apply positive reframing and claim that behind this thought hides the pursuit of high quality and the unsatisfactory feelings remind you to be focused and improve the work.  
 
-With acknowledgement of the benefits, the resistance should ease and we can lower the percentage of belief to 30%, for example.  
-
-There are techniques to find a more rational version of the thought and see cognitive distortions to shake the truth.  
-Details are not part of this topic though.  
-
+With acknowledgement of the benefits, the resistance should ease and we can start to find cognitive distortions and test the truthfulness of the thought.  
 The cognitive restructuring helps to reach the goal of starting to believe the thought only at 30% or even 0%.  
 
-If we move on from initial thought, we start to believe into transformed thought which reflects the reality more.  
-For example, `I think my work is done well, but next time I should work more on the last part`.  
+As a result, with decreased belief percentage, the intensity of sad feelings decreases too.
 
-The important thing is not to completely neglect the benefits of negativity, understand and value it, but still apply CBT methods to ease the feelings and stress.
+David Burns also suggests viewing things like anxiety not as `what is wrong with us`, but as **`what is right with us`**.
+
+`Remember not to completely neglect the benefits of negativity, understand and value it, but still apply CBT methods to ease the feelings and stress.`
  
 *[Book review: "Feeling Great" by David Burns](https://www.lesswrong.com/posts/jqTeghCJ2anMHPPjG/book-review-feeling-great-by-david-burns)*
 

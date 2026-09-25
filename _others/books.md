@@ -18,9 +18,6 @@ title: Books
 **Undoing Depression: What Therapy Doesn't Teach You and Medication Can't Give You**  
 *Richard O'Connor*
 
-**The Gift of Therapy: An Open Letter to a New Generation of Therapists and Their Patients**  
-*Irvin D. Yalom*
-
 **Love's Executioner and Other Tales of Psychotherapy**  
 *Irvin D. Yalom*
 
@@ -38,12 +35,6 @@ title: Books
 
 **Making up the Mind: How the Brain Creates Our Mental World**  
 *Chris Frith*
-
-**The Man Who Mistook His Wife for a Hat and Other Clinical Tales**  
-*Oliver Sacks*
-
-**An Anthropologist on Mars: Seven Paradoxical Tales**  
-*Oliver Sacks*
 
 **Flow: The Psychology of Optimal Experience**  
 *Mihaly Csikszentmihalyi*
