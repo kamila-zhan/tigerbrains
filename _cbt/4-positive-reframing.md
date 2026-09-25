@@ -59,9 +59,13 @@ The cognitive restructuring helps to reach the goal of starting to believe the t
 
 As a result, with decreased belief percentage, the intensity of sad feelings decreases too.
 
+### What is right with us
+
 David Burns also suggests viewing things like anxiety not as `what is wrong with us`, but as **`what is right with us`**.
 
-`Remember not to completely neglect the benefits of negativity, understand and value it, but still apply CBT methods to ease the feelings and stress.`
+Positive reframing is a tool to see what is right with us, even in mental problems.  
+
+Remember not to completely neglect the benefits of negativity, understand and value it, but still apply CBT methods to ease the feelings and stress.
  
 *[Book review: "Feeling Great" by David Burns](https://www.lesswrong.com/posts/jqTeghCJ2anMHPPjG/book-review-feeling-great-by-david-burns)*
 
