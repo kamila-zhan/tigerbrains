@@ -48,7 +48,7 @@ It is a powerful method to start noticing your reactions (thoughts, emotions) in
 
 Talk to yourself in a manner that makes you feel welcomed to open up.  
 Being harsh is not inviting.  
-The inner you can talk only in a safe nvironment.
+The inner you can talk only in a safe environment.
 
 Listen.
 
