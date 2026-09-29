@@ -88,5 +88,4 @@ Small steps and consistency do change the brain for the better.
 Make a small step.
 
 ***
-
-###### This content is for general educational purposes only and is not a substitute for professional mental health advice, diagnosis, or treatment.
+###### *This content is for general educational purposes only and is not a substitute for professional mental health advice, diagnosis, or treatment.*

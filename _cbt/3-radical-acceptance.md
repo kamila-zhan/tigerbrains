@@ -41,5 +41,4 @@ Additionally you can be mindful of when you try to fight and change what you sta
 *[The Healing Power of Radical Acceptance](https://www.psychologytoday.com/us/blog/being-your-best-self/202203/the-healing-power-of-radical-acceptance)*
 
 ***
-
-**This content is for general educational purposes only and is not a substitute for professional mental health advice, diagnosis, or treatment.**
+###### *This content is for general educational purposes only and is not a substitute for professional mental health advice, diagnosis, or treatment.*
