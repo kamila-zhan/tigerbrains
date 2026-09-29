@@ -6,7 +6,7 @@ permalink: /
 
 Content about Brain and Psychology.  
 
-Start with: **[Three Steps to Advance](https://kamila-zhan.github.io/tigerbrains/cbt/0-three-steps/)**
+Start with: **[Three Steps to Advance](https://kamila-zhan.github.io/tigerbrains/three-steps/)**
 
 ### Contacts
 
