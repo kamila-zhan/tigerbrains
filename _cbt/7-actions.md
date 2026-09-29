@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Actions
-permalink: /actions
+slug: actions
 ---
 
 All this work with mindfulness and thoughts can already make us feel better.  

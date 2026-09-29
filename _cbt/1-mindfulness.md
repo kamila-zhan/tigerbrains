@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mindfulness
-permalink: /mindfulness
+slug: mindfulness
 ---
 
 Being aware of emotions, thoughts, feelings and reality by asking questions.

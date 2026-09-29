@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thoughts
-permalink: /thoughts
+slug: thoughts
 ---
 
 Our thoughts are a kind of voice-over of what is happening inside our mind and body.    

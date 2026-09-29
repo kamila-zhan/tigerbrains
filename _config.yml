@@ -49,10 +49,10 @@ exclude:
 collections:
   cbt:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:title/
   others:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:title/
 
 ordered_collections:
   - cbt
