@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Five Everyday Tasks
+permalink: /five-tasks
 ---
 
 There are things which require attention every day or almost every day.

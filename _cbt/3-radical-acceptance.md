@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Radical Acceptance
+permalink: /acceptance
 ---
 
 The idea of radical acceptance comes from Dialectical Behavior Therapy (DBT) and means totally accepting without judgement and fighting.

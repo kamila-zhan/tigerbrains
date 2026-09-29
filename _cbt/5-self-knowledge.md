@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Self-knowledge
+permalink: /self-knowledge
 ---
 
 When someone asks us to talk about ourselves, we usually get stuck and don't know what to say.

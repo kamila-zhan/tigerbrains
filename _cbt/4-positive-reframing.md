@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Positive Reframing
+permalink: /reframing
 ---
 
 The positive reframing concept is discussed within TEAM-CBT psychotherapy framework developed by David Burns in his book `Feeling Great`.
