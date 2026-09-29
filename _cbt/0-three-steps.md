@@ -87,4 +87,5 @@ It takes time to learn to be mindful, changing automatic thoughts and changing h
 One by one they are great skills, but all three combined is a more powerful combination for facing psychological problems.  
 
 ***
-###### *This content is for general educational purposes only and is not a substitute for professional mental health advice, diagnosis, or treatment.*
+
+This content is for general educational purposes only and is not a substitute for professional mental health advice, diagnosis, or treatment.

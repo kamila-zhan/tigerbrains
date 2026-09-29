@@ -98,4 +98,5 @@ Mindfulness is not easy to learn and practice, even if it seems so.
 As you progress, mindfulness will hopefully become part of your everyday life and bring all the great benefits it has in it.
 
 ***
-###### *This content is for general educational purposes only and is not a substitute for professional mental health advice, diagnosis, or treatment.*
+
+*This content is for general educational purposes only and is not a substitute for professional mental health advice, diagnosis, or treatment.*
