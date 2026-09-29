@@ -37,7 +37,7 @@ Seems like lots of resources are needed to live through that.
 After practising mindfulness and working with thoughts, more energy and less negativity in your head will be the basis to form healthy habits.
 
 Habits are like footpaths in our brain.  
-The stronger they are, the more prone we are to do that action repeatedly.  
+The more we walk on them, the easier it gets.  
 New habits and actions take more energy and time to pave the way.
 
 Unwanted habits can not be removed much but can be forgotten if you consciously turn yourself to a new path you build.  
