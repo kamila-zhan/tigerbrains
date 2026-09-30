@@ -4,7 +4,7 @@ title: Tiger Brains
 permalink: /
 ---
 
-Content about Brain and Psychology.  
+A psychology guidebook.
 
 Start with: **[Three Steps to Advance](https://kamila-zhan.github.io/tigerbrains/three-steps/)**
 
