@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Over the long-term
+title: Over the Long-term
 slug: long-term
 ---
 

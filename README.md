@@ -16,8 +16,4 @@ Email: kzhanuzak8@gmail.com
 
 Location: Astana
 
-I am not a practicing psychologist.  
-
-I act as an educator and provide lessons in psychology. 
-
 *[Psychology Diploma](https://kamila-zhan.github.io/tigerbrains/assets/psy_diploma.pdf)*
